@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/jana-nogueira.1-ativ-form-basic-20-09-fork-l8anjlbw",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 5yPTNKk5lirRehtfjFaX --open"
+  }
+}
